@@ -197,7 +197,7 @@ class HeyWatch {
      * @author Andreas Creten
      */
     function getFormat($format_id) {
-        return $this->api_call('download/'.$download_id);
+        return $this->api_call('format/'.$format_id);
     }
     
     /**
