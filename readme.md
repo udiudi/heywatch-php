@@ -1,9 +1,9 @@
 HeyWatch php class
 =============
 
-[Hey!Watch](http://heywatch.com) provides a simple and robust encoding platform. The service allows developers to access a fast, scalable and inexpensive web service to encode videos easier. The API can be easily integrated in any web or desktop applications.
+[HeyWatch](http://www.heywatchencoding.com) provides a simple and robust encoding platform. The service allows developers to access a fast, scalable and inexpensive web service to encode videos easier. The API can be easily integrated in any web or desktop applications.
 
-The documentation of the API can be found at http://wiki.heywatch.com/API_Documentation
+The documentation of the API can be found at http://www.heywatchencoding.com/documentation
 
 Usage
 -------------
